@@ -2,7 +2,7 @@
 ---
 ## Background
 
-On-chain assets include native assets (completely decentralized and capture value on the chain) and secured Assets (undertake some kind of centralized risk and/or requiring certain kind of centralized entity's guarantee, such as USDT). Based on the on-chain price from the oracle, the existing native assets can be used to form all other assets in parallel as long as they have a on-chain price, whether they are native or credit assets. The significance of using suc native assets to issue parallel assets is that the underlying assets no longer take any credit risk.
+On-chain assets include native assets (completely decentralized and capture value on the chain) and secured assets (undertake some kind of centralized risk and/or requiring certain kind of centralized entity's guarantee, such as USDT). Based on the on-chain price from the oracle, the existing native assets can be used to form all other assets in parallel as long as they have a on-chain price, whether they are native or credit assets. The significance of using such native assets to issue parallel assets is that the underlying assets no longer take any credit risk.
 
 ---
 
