@@ -41,7 +41,7 @@ After the minting user deposits the collateral assets to the contract, a debt po
 The insurance fund pool is used to ensure that the exchange relationship between pUSD and USDT is always maintained at a ratio of 1:1 when liquidating. The insurance fund pool can be deposited both pUSD and USDT.
 
 1. When the collateral assets trigger the liquidation line, the collateral assets in the debt position will be transferred to the insurance fund pool, the collateral assets are converted into USDT and pUSD through CoFiX, and destroy the corresponding pUSD in the debt position. If the pUSD in the insurance fund pool is not enough to destroy, a negative account will be formed. Then anyone or liquidation contract can deposit a pUSD, and a value of the negative account will be reduced.
-2. Anyone can deposit 1 USDT to the insurance fund pool to generate 1 sUSD at anytime, or return one sUSD to the pool in exchange for one USDT, provided that the insurance fund pool has USDT.
+2. Anyone can deposit 1 USDT to the insurance fund pool to generate 1 pUSD at anytime, or return one pUSD to the pool in exchange for one USDT, provided that the insurance fund pool has USDT.
 
 ### Oracle
 
